@@ -1,0 +1,7 @@
+{
+  "name": "plan",
+  "version": "1.0.0",
+  "description": "Planner skill",
+  "entry": "skill.md",
+  "tags": ["common", "plan"]
+}

@@ -1,0 +1,19 @@
+{
+  "skills": [
+    {
+      "name": "bitrix-component-create",
+      "version": "1.0.0",
+      "path": "skills/bitrix/bitrix-component-create"
+    },
+    {
+      "name": "bitrix-hlblock-create",
+      "version": "1.0.0",
+      "path": "skills/bitrix/bitrix-hlblock-create"
+    },
+    {
+      "name": "prompt-builder",
+      "version": "1.0.0",
+      "path": "skills/common/prompt-builder"
+    }
+  ]
+}

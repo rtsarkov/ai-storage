@@ -1,0 +1,7 @@
+{
+  "name": "bitrix-hlblock-create",
+  "version": "1.0.0",
+  "description": "Bitrix hlb create",
+  "entry": "skill.md",
+  "tags": ["bitrix"]
+}

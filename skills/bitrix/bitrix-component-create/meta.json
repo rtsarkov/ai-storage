@@ -1,0 +1,7 @@
+{
+  "name": "bitrix-component-create",
+  "version": "1.0.0",
+  "description": "Bitrix component create",
+  "entry": "skill.md",
+  "tags": ["bitrix"]
+}
