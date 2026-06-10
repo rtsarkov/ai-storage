@@ -1,6 +1,6 @@
 {
   "name": "prompt-builder",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Planner skill",
   "entry": "skill.md",
   "tags": ["common", "plan"]
