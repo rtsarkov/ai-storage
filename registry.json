@@ -3,7 +3,8 @@
     {
       "name": "bitrix-component-create",
       "version": "1.0.0",
-      "path": "skills/bitrix/bitrix-component-create"
+      "path": "skills/bitrix/bitrix-component-create",
+      "dependencies": ["bitrix-hlblock-create"]
     },
     {
       "name": "bitrix-hlblock-create",
