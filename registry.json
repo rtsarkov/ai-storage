@@ -26,11 +26,6 @@
       "path": "skills/bitrix/bitrix-framework-docs"
     },
     {
-      "name": "bitrix-hlblock-create",
-      "version": "1.0.0",
-      "path": "skills/bitrix/bitrix-hlblock-create"
-    },
-    {
       "name": "bitrix-migration-create",
       "version": "1.0.0",
       "path": "skills/bitrix/bitrix-migration-create"
