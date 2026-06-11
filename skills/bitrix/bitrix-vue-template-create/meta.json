@@ -1,0 +1,7 @@
+{
+  "name": "bitrix-vue-template-create",
+  "version": "1.0.0",
+  "description": "Bitrix VUE template create",
+  "entry": "skill.md",
+  "tags": ["bitrix"]
+}

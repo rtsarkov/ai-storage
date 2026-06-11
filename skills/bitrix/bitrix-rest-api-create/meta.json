@@ -1,0 +1,7 @@
+{
+  "name": "bitrix-resp-api-create",
+  "version": "1.0.0",
+  "description": "Bitrix Rest API create",
+  "entry": "skill.md",
+  "tags": ["bitrix"]
+}

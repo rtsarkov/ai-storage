@@ -3,8 +3,7 @@
     {
       "name": "bitrix-component-create",
       "version": "1.0.0",
-      "path": "skills/bitrix/bitrix-component-create",
-      "dependencies": ["bitrix-hlblock-create"]
+      "path": "skills/bitrix/bitrix-component-create"
     },
     {
       "name": "bitrix-hlblock-create",
@@ -13,8 +12,43 @@
     },
     {
       "name": "prompt-builder",
-      "version": "1.4.0",
+      "version": "1.0.0",
       "path": "skills/common/prompt-builder"
+    },
+    {
+      "name": "ai-session-history",
+      "version": "1.0.0",
+      "path": "skills/common/ai-session-history"
+    },
+    {
+      "name": "bitrix-framework-docs",
+      "version": "1.0.0",
+      "path": "skills/bitrix/bitrix-framework-docs"
+    },
+    {
+      "name": "bitrix-hlblock-create",
+      "version": "1.0.0",
+      "path": "skills/bitrix/bitrix-hlblock-create"
+    },
+    {
+      "name": "bitrix-migration-create",
+      "version": "1.0.0",
+      "path": "skills/bitrix/bitrix-migration-create"
+    },
+    {
+      "name": "bitrix-orm-expert",
+      "version": "1.0.0",
+      "path": "skills/bitrix/bitrix-orm-expert"
+    },
+    {
+      "name": "bitrix-resp-api-create",
+      "version": "1.0.0",
+      "path": "skills/bitrix/bitrix-resp-api-create"
+    },
+    {
+      "name": "bitrix-vue-template-create",
+      "version": "1.0.0",
+      "path": "skills/bitrix/bitrix-vue-template-create"
     }
   ]
 }

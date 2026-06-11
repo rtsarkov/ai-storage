@@ -1,0 +1,7 @@
+{
+  "name": "bitrix-framework-docs",
+  "version": "1.0.0",
+  "description": "Bitrix framework docs",
+  "entry": "skill.md",
+  "tags": ["bitrix"]
+}

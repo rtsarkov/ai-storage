@@ -1,0 +1,7 @@
+{
+  "name": "bitrix-orm-expert",
+  "version": "1.0.0",
+  "description": "Bitrix ORM expert",
+  "entry": "skill.md",
+  "tags": ["bitrix"]
+}

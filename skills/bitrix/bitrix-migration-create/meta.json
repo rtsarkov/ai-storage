@@ -1,0 +1,7 @@
+{
+  "name": "bitrix-migration-create",
+  "version": "1.0.0",
+  "description": "Bitrix migration create",
+  "entry": "skill.md",
+  "tags": ["bitrix"]
+}

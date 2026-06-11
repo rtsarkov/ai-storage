@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bitrix ORM Expert"
+  short_description: "Проектирование и оптимизация решений на Bitrix D7 ORM"
+  default_prompt: "Проанализируй задачу и предложи корректное и производительное решение на Bitrix D7 ORM с учетом локальной версии ядра."
